@@ -49,8 +49,7 @@ lean git
 - `git checkout -- filename`
 - `git fetch origin`
 - `git reset --hard origin`
-
-
+- `git branch fix`
 
 
 
