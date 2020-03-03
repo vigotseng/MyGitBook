@@ -53,5 +53,14 @@ lean git
 
 
 
+技巧：
+
+- `git log --graph`
+- `git log --graph`
+- `git reset filename`
+- `git reset -- hard filename`
+
+
+
 
 
