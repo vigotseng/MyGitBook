@@ -11,11 +11,16 @@ lean git
 
 
 
+
+
 分支相关：
 
 - `git checkout -b develop`
 - `git checkout master`
 - `git branch -d develop`
+- `git merge develop`
+
+
 
 
 
@@ -24,6 +29,9 @@ lean git
 - `git remote add origin git@github.com`
 - `git pull origin develop `
 - `git push origin develop` 
+- `git clone git@github.com`
+
+
 
 
 
@@ -31,6 +39,19 @@ lean git
 
 - `git log`
 - `git status`
+
+
+
+
+其他：
+
+- `git fetch`
+- `git checkout -- filename`
+- `git fetch origin`
+- `git reset --hard origin`
+
+
+
 
 
 
