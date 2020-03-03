@@ -15,6 +15,15 @@ lean git
 
 - `git checkout -b develop`
 - `git checkout master`
+- `git branch -d develop`
+
+
+
+远程相关：
+
+- `git remote add origin git@github.com`
+- `git pull origin develop `
+- `git push origin develop` 
 
 
 
@@ -22,4 +31,6 @@ lean git
 
 - `git log`
 - `git status`
+
+
 
