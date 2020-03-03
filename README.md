@@ -63,4 +63,6 @@ lean git
 
 
 
+git checkout -- filename
 
+git reset HEAD filename
